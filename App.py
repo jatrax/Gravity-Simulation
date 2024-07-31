@@ -4,8 +4,8 @@ import Config
 import time
 
 Planet(radius=6,mass=60,color = "#0000aa",coordinates=[100,600]  ,acceleration=[0,-440])
-Planet(radius=5,color="#00aa00",coordinates=[300,600],acceleration=[0,550])
-Planet(radius=50,mass=22000,color="orange" ,coordinates=[600,600])
+Planet(radius=5,color="#00aa88",coordinates=[300,600],acceleration=[0,550])
+Planet(radius=50,mass=22000,color="#ffaa00" ,coordinates=[600,600],acceleration=[0,-1])
 
 app = Tk()
 app.config(background="black")
