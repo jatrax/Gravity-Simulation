@@ -1,5 +1,5 @@
-HEIGHT = 1200
-WIDTH = 1200
+HEIGHT = 800
+WIDTH = 800
 
 Gravity = 1
 
