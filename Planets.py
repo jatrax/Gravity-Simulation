@@ -1,5 +1,6 @@
 import math
 import Config
+
 class Planet:
 
     Planets = []
